@@ -7,7 +7,6 @@ Sou um [Cloud Architect | DevOps] apaixonado por [Tecnologia]. Atualmente, estou
 - 🌱 Atualmente estou a aprender... [IA, Python, GO, Azure AZ104, FinOps]
 - 👯 Procuro colaborar em... [Cloud Computing & DevOps]
 - 🤔 Estou à procura de ajuda com... [Recolocação no mercado de Trabalho]
-- 💬 Pergunte-me sobre... [Os Seus Tópicos de Especialidade]
 - 📫 Como me contactar: [www.linkedin.com/in/carlos-henrique-068273b4]
 
 
@@ -15,7 +14,7 @@ Sou um [Cloud Architect | DevOps] apaixonado por [Tecnologia]. Atualmente, estou
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,oracle,docker,kubernetes,ansible,terraform=3)](https://skillicons.dev)
 
 
 ---
