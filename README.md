@@ -1,13 +1,13 @@
-### Olá, eu sou o [Carlos Henrique Rezende Silva]! 👋
+### Olá, eu sou o Carlos Henrique Rezende Silva! 👋
 
-Sou um [Cloud Architect | DevOps] apaixonado por [Tecnologia]. Atualmente, estou a trabalhar em [Cloud & DevOps] e a aprender mais sobre [IA, Python, GO, Azure AZ-104].
+Sou um Cloud Architect | DevOps apaixonado por Tecnologia. Atualmente, estou a aprender mais sobre IA, Python, GO, Azure AZ-104 Certification e Oracle Cloud Certification. 
 
 ---
 
-- 🌱 Atualmente estou a aprender... [IA, Python, GO, Azure AZ104, FinOps]
-- 👯 Procuro colaborar em... [Cloud Computing & DevOps]
-- 🤔 Estou à procura de ajuda com... [Recolocação no mercado de Trabalho]
-- 📫 Como me contactar: [www.linkedin.com/in/carlos-henrique-068273b4]
+- 🌱 Atualmente estou a aprender... IA, Python, GO, Azure AZ-104 Certification e Oracle Cloud Certification. 
+- 👯 Procuro colaborar em... Cloud Computing & DevOps.
+- 🤔 Estou à procura de ajuda com... Recolocação no mercado de Trabalho.
+- 📫 Como me contactar: www.linkedin.com/in/carlos-henrique-068273b4
 
 
 ---
@@ -21,5 +21,5 @@ Sou um [Cloud Architect | DevOps] apaixonado por [Tecnologia]. Atualmente, estou
 
 ### 📊 As Minhas Estatísticas do GitHub
 
-[![As Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-UTILIZADOR&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![As Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=carlos-hrs7&show_icons=true&theme=radical)](https://github.com/carlos-hrs7/github-readme-stats)
 
