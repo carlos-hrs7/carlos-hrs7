@@ -14,7 +14,7 @@ Sou um [Cloud Architect | DevOps] apaixonado por [Tecnologia]. Atualmente, estou
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,oracle,docker,kubernetes,ansible,terraform=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,azure,git,github,githubactions,gitlab,bitbucket,docker,kubernetes,ansible,terraform,bash,cloudflare,debian,elasticsearch,grafana,go,jenkins,mint,nginx,py,prometheus=3)](https://skillicons.dev)
 
 
 ---
