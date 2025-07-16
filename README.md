@@ -15,11 +15,8 @@ Sou um [Cloud Architect | DevOps] apaixonado por [Tecnologia]. Atualmente, estou
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[// Aqui pode adicionar ícones das tecnologias que domina. Existem serviços como o Shields.io para isso.]
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-https://skillicons.dev/icons?i=all
 
 ---
 
