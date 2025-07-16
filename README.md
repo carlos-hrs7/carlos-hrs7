@@ -1,6 +1,6 @@
 ### Olá, eu sou o Carlos Henrique Rezende Silva! 👋
 
-Sou um Cloud Architect | DevOps apaixonado por Tecnologia. Atualmente, estou a aprender mais sobre IA, Python, GO, Azure AZ-104 Certification e Oracle Cloud Certification. 
+Sou um Multi Cloud Architect | DevOps apaixonado por Tecnologia. Atualmente, estou a aprender mais sobre IA, Python, GO, Azure AZ-104 Certification e Oracle Cloud Certification. 
 
 ---
 
