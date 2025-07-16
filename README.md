@@ -20,7 +20,7 @@ Profissional com 17 anos de experiência na área de tecnologia da informação,
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,azure,git,github,githubactions,gitlab,bitbucket,docker,kubernetes,ansible,terraform,bash,cloudflare,debian,elasticsearch,grafana,go,jenkins,mint,nginx,pycharm,py,prometheus,openshift,powershell,redhat,ubuntu,vim,vscode,windows,ai,discord,bsd,dynamodb,linkedin=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,azure,git,github,githubactions,gitlab,bitbucket,docker,kubernetes,ansible,terraform,bash,cloudflare,debian,elasticsearch,grafana,go,jenkins,mint,nginx,pycharm,py,prometheus,openshift,powershell,redhat,ubuntu,vim,vscode,windows,ai,discord,bsd,dynamodb,linkedin,=3)](https://skillicons.dev)
 
 
 ---
