@@ -11,8 +11,7 @@ Profissional com 17 anos de experiência na área de tecnologia da informação,
 ---
 
 - 🌱 Atualmente estou a aprender mais sobre AWS, DevSecOps, kubernetes, IA, Python, GO. 
-- 👯 Procuro colaborar em... Cloud Computing & DevOps.
-- 🤔 Estou à procura de ajuda com... Recolocação no mercado de Trabalho.
+- 👯 Procuro colaborar em... Cloud Computing | DevSecOps | IA.
 - 📫 Como me contactar: www.linkedin.com/in/carlos-henrique-068273b4
 
 
