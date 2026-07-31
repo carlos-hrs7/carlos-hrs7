@@ -1,17 +1,22 @@
 ### Olá, eu sou o Carlos Henrique Rezende Silva! 👋
 
-Sou um Cloud Solutions Architect | DevOps apaixonado por Tecnologia. Atualmente estou a aprender mais sobre AWS, DevSecOps, kubernetes, IA, Python, GO. 
 
 ---
 
-Sobre minhas experiências: 
+The road so far. 
 
-Profissional com 18 anos de experiência na área de tecnologia da informação, iniciei com suporte de primeiro nível, depois migrei para redes e infraestrutura onde participei e entreguei projetos de implantação de serviços e equipamentos de Redes. A partir do ano de 2018 direcionei minha carreira para a área de Cloud Computing ganhando experiência e especialização em AWS, na sequência adquirindo conhecimentos e experiência com outros providers: Microsoft Azure, Google Cloud, Virtuozzo Cloud, dessa forma conseguindo atuar com Soluções Multi Cloud. Nós ultimos 3 anos também adquiri conhecimentos e experiência trabalhando com projetos de Cloud em ambientes DevOps e automatizados com pipelines CI/CD(Integração Contínua/Entrega Contínua) e IaC(Infraestrutura como codigo).
+Profissional com 18 anos na área de tecnologia da informação, iniciei com suporte, em seguida migrei para redes e infraestrutura. Experiência prática com projetos de implementação de serviços e equipamentos de Redes tais como: Servidores Microsoft e Linux, Cybersecurity com Next-Gen Firewalls, Virtualização, Backup, Monitoramento, Roteamento & Switching, Storage, Infraestrutura de Cloud Computing com AWS e Microsoft Azure e 365.
+
+Paixão por tecnologia e inovação;
+Foco em resultados e melhoria contínua;
+Colaboração, Proatividade e Resiliência;
+Capacidade de Organização e Gestão de prioridades;
+Forte capacidade analitica e resolucao de problemas;
 
 ---
 
-- 🌱 Atualmente estou a aprender mais sobre AWS, DevSecOps, kubernetes, IA, Python, GO. 
-- 👯 Procuro colaborar em... Cloud Computing | DevSecOps | IA.
+- 🌱 Especializacao em Microsoft Azure e 365 
+- 👯 Procuro colaborar em... Cloud Computing | Infraestrutura | IA.
 - 📫 Como me contactar: www.linkedin.com/in/carlos-henrique-068273b4
 
 
