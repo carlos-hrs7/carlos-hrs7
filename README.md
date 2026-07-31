@@ -1,4 +1,4 @@
-### Olá, eu sou o Carlos Henrique Rezende Silva! 👋
+### Olá, Eu sou o Carlos Henrique Rezende Silva! 👋
 
 
 ---
@@ -18,7 +18,7 @@ Forte capacidade analitica e resolucao de problemas;
 - 🌱 Especializacao em Microsoft Azure e 365 
 - 👯 Procuro colaborar em... Cloud Computing | Infraestrutura | IA.
 - 📫 Como me contactar: www.linkedin.com/in/carlos-henrique-068273b4
-
+- 📊 Este e meu canal no youtube: www.youtube.com/@cloudhr7 - Se inscreva e ative o sininho para nao perder nenhum conteudo! 
 
 ---
 
