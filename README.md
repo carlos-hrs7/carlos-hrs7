@@ -15,7 +15,7 @@ Forte capacidade analitica e resolucao de problemas;
 
 ---
 
-- 🌱 Especializacao em Microsoft Azure e 365 
+- 🌱 Foco em Especializacao nas tecnologias Microsoft Azure e 365 
 - 👯 Procuro colaborar em... Cloud Computing | Infraestrutura | IA.
 - 📫 Como me contactar: www.linkedin.com/in/carlos-henrique-068273b4
 - 📊 Este e meu canal no youtube: www.youtube.com/@cloudhr7 - Se inscreva e ative o sininho para nao perder nenhum conteudo! 
@@ -24,7 +24,7 @@ Forte capacidade analitica e resolucao de problemas;
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,azure,git,github,githubactions,gitlab,bitbucket,docker,kubernetes,ansible,terraform,bash,cloudflare,debian,elasticsearch,grafana,go,jenkins,mint,nginx,pycharm,py,prometheus,openshift,powershell,redhat,ubuntu,vim,vscode,windows,ai,discord,bsd,dynamodb,linkedin,=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,azure,git,github,gitlab,ansible,terraform,bash,cloudflare,debian,grafana,mint,nginx,powershell,redhat,ubuntu,vim,vscode,windows,ai,bsd,linkedin,=3)](https://skillicons.dev)
 
 
 ---
