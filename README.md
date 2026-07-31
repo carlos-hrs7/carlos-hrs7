@@ -24,7 +24,7 @@ Forte capacidade analitica e resolucao de problemas;
 
 ### 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,azure,git,github,ansible,terraform,bash,cloudflare,debian,grafana,mint,nginx,powershell,redhat,ubuntu,vim,vscode,windows,ai,linkedin,=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,azure,git,github,ansible,terraform,bash,cloudflare,debian,grafana,mint,powershell,redhat,ubuntu,vim,vscode,windows,ai,linkedin,=3)](https://skillicons.dev)
 
 
 ---
